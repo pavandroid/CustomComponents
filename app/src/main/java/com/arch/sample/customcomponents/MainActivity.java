@@ -21,4 +21,6 @@ public class MainActivity extends AppCompatActivity {
     //mark this code finalized
     
     //Mark My code finally finalized
+    //Code changes fo the main activity
+    //Please include this changes to the code base
 }
